@@ -1,0 +1,4 @@
+strategy-pattern
+================
+
+Strategy Pattern
